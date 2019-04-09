@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["layout-Material-Aside-logo-png"],{"69ba":function(o,p,n){o.exports=n.p+"img/logo.82b9c7a5.png"}}]);
